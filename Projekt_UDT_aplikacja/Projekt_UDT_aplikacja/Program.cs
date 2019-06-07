@@ -1,8 +1,3 @@
-﻿/* TODO
- * za mało argumentów w parse - error że out of range - catch
- * add more figures
- * */
-
 using System;
 using System.Data.SqlClient;
 using System.Collections.Generic;
