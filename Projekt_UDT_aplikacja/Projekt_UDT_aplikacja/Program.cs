@@ -261,7 +261,7 @@ namespace Projekt_UTD_aplikacja
         static void SendCommand(Command c)
         {
             string sqlconnection = @"DATA SOURCE=MSSQLServer;"
-                + "INITIAL CATALOG=testCLR; INTEGRATED SECURITY=SSPI;";
+                + "INITIAL CATALOG=projektUDT; INTEGRATED SECURITY=SSPI;";
 
             string sqlcommand = c.GetCommand();
             if (c.GetCommandType().Equals(Command.Type.Insert))
