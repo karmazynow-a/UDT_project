@@ -13,7 +13,8 @@ namespace Projekt_UTD_aplikacja
         {
             Null,
             Select,
-            Insert
+            Insert,
+            Search
         }
 
         private String _com;
