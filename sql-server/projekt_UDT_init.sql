@@ -14,6 +14,7 @@ create table Kwadrat ( kwadrat dbo.Kwadrat);
 create table Rownoleglobok ( rownoleglobok dbo.Rownoleglobok);
 create table Trapez ( trapez dbo.Trapez);
 
+--skrypt do usuwania tabel - nie u¿ywaj go jeœli nie chcesz ich usun¹æ
 --drop table Kolo;
 --drop table Trojkat;
 --drop table Prostokat;

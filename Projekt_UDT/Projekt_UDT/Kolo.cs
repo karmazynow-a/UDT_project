@@ -28,7 +28,7 @@ public struct Kolo : INullable
     public override string ToString()
     {
         return "Koło o promieniu " + m_r.ToString() 
-                + " i środku u punkcie ( " + m_x.ToString() + " ,  "
+                + " i środku w punkcie ( " + m_x.ToString() + " ,  "
                 + m_y.ToString() + " )";
     }
 

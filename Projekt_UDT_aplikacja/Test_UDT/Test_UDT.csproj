@@ -47,8 +47,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CommandTest.cs" />
+    <Compile Include="UDTRownoleglobokTest.cs" />
+    <Compile Include="UDTTrapezTest.cs" />
+    <Compile Include="UDTProstokatTest.cs" />
+    <Compile Include="UDTKwadratTest.cs" />
+    <Compile Include="UDTTrojkatTest.cs" />
     <Compile Include="Projekt_UDT_aplikacjaTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UDTKoloTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AuthoringTests.txt" />

@@ -34,7 +34,7 @@ public struct Rownoleglobok : INullable
 
     public override string ToString()
     {
-        return "Rownoleglobok o wierzchołkach A( " + m_ax.ToString() + " , " + m_ay.ToString() 
+        return "Równoległobok o wierzchołkach A( " + m_ax.ToString() + " , " + m_ay.ToString() 
                                  + " ), B( " + m_bx.ToString() + " , " + m_by.ToString()
                                  + " ), C( " + m_cx.ToString() + " , " + m_cy.ToString()
                                   + " ), D( " + m_dx.ToString() + " , " + m_dy.ToString() + " )";

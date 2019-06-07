@@ -31,7 +31,7 @@ public struct Trojkat : INullable
 
     public override string ToString()
     {
-        return "Trojkąt o wierzchołkach A( " + m_ax.ToString() + " , " + m_ay.ToString() 
+        return "Trójkąt o wierzchołkach A( " + m_ax.ToString() + " , " + m_ay.ToString() 
                                  + " ), B( " + m_bx.ToString() + " , " + m_by.ToString()
                                  + " ), C( " + m_cx.ToString() + " , " + m_cy.ToString() + " )";
     }
